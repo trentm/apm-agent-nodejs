@@ -143,7 +143,7 @@
     "hapi": "^18.1.0",
     "https-pem": "^2.0.0",
     "inquirer": "^0.12.0",
-    "ioredis": "^4.16.0",
+    "ioredis": "^4.16.2",
     "is-my-json-valid": "^2.20.0",
     "jade": "^1.11.0",
     "knex": "^0.20.10",

@@ -123,7 +123,7 @@
     "backport": "^5.1.2",
     "benchmark": "^2.1.4",
     "bluebird": "^3.7.2",
-    "cassandra-driver": "^4.4.0",
+    "cassandra-driver": "4.5.1",
     "columnify": "^1.5.4",
     "commitlint-config-squash-pr": "^1.0.1",
     "connect": "^3.7.0",
